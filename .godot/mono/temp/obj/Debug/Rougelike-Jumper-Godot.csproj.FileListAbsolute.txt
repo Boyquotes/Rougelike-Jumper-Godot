@@ -1,0 +1,17 @@
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\bin\Debug\Rougelike-Jumper-Godot.deps.json
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\bin\Debug\Rougelike-Jumper-Godot.runtimeconfig.json
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\bin\Debug\Rougelike-Jumper-Godot.dll
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\bin\Debug\Rougelike-Jumper-Godot.pdb
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.csproj.AssemblyReference.cache
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.AssemblyInfoInputs.cache
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.AssemblyInfo.cs
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.csproj.CopyComplete
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.dll
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\refint\Rougelike-Jumper-Godot.dll
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.pdb
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\Rougelike-Jumper-Godot.genruntimeconfig.cache
+C:\Users\ivano\Documents\CSharp projects\Rougelike-Jumper-Godot\.godot\mono\temp\obj\Debug\ref\Rougelike-Jumper-Godot.dll

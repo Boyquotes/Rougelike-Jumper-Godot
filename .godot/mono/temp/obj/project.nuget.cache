@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxEIa4le2+1bMNawAdKX/VFotAA+CS4mT9pKGUMgOzD6tbhk6K1sp/YGF/sXp9kOAbYSnHnePgAxKrbEK98nOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivano\\Documents\\CSharp projects\\Rougelike-Jumper-Godot\\Rougelike-Jumper-Godot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivano\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godot.sourcegenerators\\4.0.2\\godot.sourcegenerators.4.0.2.nupkg.sha512",
+    "C:\\Users\\ivano\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharp\\4.0.2\\godotsharp.4.0.2.nupkg.sha512",
+    "C:\\Users\\ivano\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharpeditor\\4.0.2\\godotsharpeditor.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
